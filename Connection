@@ -9,7 +9,7 @@
 ## 5 W's
 - **Who** — Kali (attacker VM) and Metasploitable2 (target VM)
 - **What** — Verified network connectivity between attacker and target via ICMP ping
-- **When** — [today's date]
+- **When** — [12:28am 07/23/2026]
 - **Where** — Isolated VMware lab network
 - **Why** — Required first step before any lab activity — confirms both VMs can communicate on the same network prior to running attacks or capturing traffic
 
